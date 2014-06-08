@@ -1,7 +1,7 @@
 Original Authors
 ----------------
 
- * [First Author](https://example.edu/~fauthor) (fauthor@example.edu)
+ * [Shaun Edwards](http://www.linkedin.com/pub/shaun-edwards/2/4a9/576) (shaun.edwards@gmail.com)
 
 Contributors
 ------------
